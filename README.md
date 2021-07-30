@@ -1,7 +1,18 @@
 # Brendon Gomes 🚀
 
 ```js
-console.log('Hello World!')
+const coffee = new Coffee();
+
+if (coffee.empty)
+{
+  coffee.refill(); 
+}
+else
+{
+  coffee.drink()
+}
+
+//I am a web developer B)
 ```
 
 Hi, I’m **@Brendon3578** 🖐
