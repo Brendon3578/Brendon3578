@@ -1,7 +1,7 @@
 # Brendon Gomes
 
 ```js
-console.log(´Hello World!´)
+console.log('Hello World!')
 ```
 
 Hi, I’m **@Brendon3578** 🖐
