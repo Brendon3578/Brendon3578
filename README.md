@@ -9,7 +9,7 @@ if (coffee.empty)
 }
 else
 {
-  coffee.drink()
+  coffee.drink();
 }
 
 //I am a web developer B)
