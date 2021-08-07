@@ -10,6 +10,7 @@ if (coffee.empty)
 else
 {
   coffee.drink();
+  me.code();
 }
 
 //I am a web developer B)
