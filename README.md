@@ -12,8 +12,6 @@ else
   coffee.drink();
   me.code();
 }
-
-//I am a web developer B)
 ```
 
 Hi, I’m **@Brendon3578** 🖐
