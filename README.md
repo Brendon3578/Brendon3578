@@ -1,24 +1,10 @@
 # Brendon Gomes ☕
 
-```js
-const coffee = new Coffee();
+Olá sou **@Brendon3578** 🖐
+Sou um Desenvolvedor Web que busca sempre aprender o novo.
 
-if (coffee.empty)
-{
-  coffee.refill(); 
-}
-else
-{
-  coffee.drink();
-  me.code();
-}
-```
 
-Hi, I’m **@Brendon3578** 🖐
-
-I'm an anonymous Dev who is interested in this big web universe 🪐.
-
-💻 I am currently learning...
+💻 Atualmente estou buscando aprender sobre...
 
 - Javascript
 - ReactJS
