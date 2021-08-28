@@ -3,7 +3,6 @@
 Olá sou **@Brendon3578** 🖐
 Sou um Desenvolvedor Web que busca sempre aprender o novo.
 
-
 💻 Atualmente estou buscando aprender sobre...
 
 - Javascript
