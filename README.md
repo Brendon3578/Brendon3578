@@ -5,11 +5,9 @@ Sou um Desenvolvedor Web que busca sempre aprender o novo.
 
 💻 Atualmente estou buscando aprender sobre...
 
-- Javascript
-- ReactJS
-- EJS
-- NodeJS
-- Express
+- ⚛ ReactJS
+- ⚙ NodeJS
+- 📱 ReactNative
 
 <!---
 Brendon3578/Brendon3578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
