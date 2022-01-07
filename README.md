@@ -16,6 +16,8 @@ I am a beginner in the developer's world who is always looking to learn the new.
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 [![Brendon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brendon3578&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
