@@ -7,7 +7,11 @@ I am a beginner in the developer's world who is always looking to learn the new.
 </a>
 
 <a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Linkedin Profile" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" title="My Linkedin Profile" alt="LinkedIn">
+</a>
+
+<a href="https://brendongomes.vercel.app/">
+    <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-202020?style=flat-square&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="My Personal Website (Portfolio)">
 </a>
 
 💻 Skills
