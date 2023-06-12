@@ -2,14 +2,14 @@
 
 I am a beginner in the developer's world who is always looking to learn the new
 
-<a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/" target="_blank">
+<a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
 </a>
-<a href="https://brendongomes.vercel.app/" target="_blank">
+<a href="https://brendongomes.vercel.app/">
     <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-202020?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
 
-<table style="max-width:600px" width="600px">
+<table width="500px">
   <tr>
     <th> <b>💻 Skills</b> </th>
     <th> <b>💭 Studying about</b> </th>
@@ -44,10 +44,10 @@ See [my repository](https://github.com/Brendon3578/material-de-estudos) (PT-BR) 
 
 ## 🔮 Other Profiles
 
-<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c" target="_blank">
+<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
   <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" title="Brendon Gomes's Google Cloud Skill Boost Profile">
 </a>
-<a href="https://exercism.org/profiles/Brendon3578" target="_blank">
+<a href="https://exercism.org/profiles/Brendon3578">
     <img src="https://img.shields.io/badge/Exercism_Profile-009CAB?style=flat&logo=exercism&logoColor=white" title="My Exercism Profile" title="Brendon's Exercism Profile" alt="Brendon's Exercism Profile">
 </a>
 
