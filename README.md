@@ -9,7 +9,7 @@ I am a beginner in the developer's world who is always looking to learn the new
     <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-202020?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
 
-<table style="max-width:600px">
+<table style="max-width:600px" width="600px">
   <tr>
     <th> <b>💻 Skills</b> </th>
     <th> <b>💭 Studying about</b> </th>
