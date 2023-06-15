@@ -1,5 +1,4 @@
-<center>
-  <h1>Hello 👋, I'm Brendon Gomes</h1>
+# Hello 👋, I'm Brendon Gomes
 
 I am a beginner in the developer's world who is always looking to learn the new
 
@@ -15,11 +14,11 @@ I am a beginner in the developer's world who is always looking to learn the new
 
 <table>
   <tr>
-    <th> <center> <b>💻 Skills</b> </center> </th>
-    <th> <center>  <b>💭 Studying about</b> </center> </th>
+    <th> <b>💻 Skills</b> </th>
+    <th> <b>💭 Studying about</b> </th>
   </tr>
   <tr>
-    <td width="300"><center>
+    <td width="300">
 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&style=flat&logo=react&logoColor=%2361DAFB)
   ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&style=flat&logo=node.js&logoColor=white)
@@ -29,15 +28,15 @@ I am a beginner in the developer's world who is always looking to learn the new
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&style=flat&logo=bootstrap&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&style=flat&logo=tailwind-css&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&style=flat&logo=google-cloud&logoColor=white)
-    </center></td>
-    <td width="200"><center>
+    </td>
+    <td width="200">
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&style=flat&logo=elixir&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&style=flat&logo=microsoftazure&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&style=flat&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&style=flat&logo=python&logoColor=ffdd54)
-    </center></td>
+    </td>
   </tr>
 </table>
 
@@ -83,8 +82,6 @@ Check my profiles of other learning platforms
 <a href="https://exercism.org/profiles/Brendon3578">
     <img src="https://img.shields.io/badge/Exercism_Profile-009CAB?style=flat&logo=exercism&logoColor=white" title="My Exercism Profile" title="Brendon's Exercism Profile" alt="Brendon's Exercism Profile">
 </a>
-
-</center>
 
 <!---
 Brendon3578/Brendon3578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
