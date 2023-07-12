@@ -3,13 +3,13 @@
 I am a beginner in the developer's world who is always looking to learn the new
 
 <a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
-    <img src="https://img.shields.io/badge/-Linkedin_Profile-blue?style=flat&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin_Profile-603fbf?style=flat&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
 </a>
 <a href="mailto:brendongomes40@gmail.com">
-    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-red?style=flat&logo=gmail&logoColor=white" title="my email address" alt="my email address">
+    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-5232ad?style=flat&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 <a href="https://brendongomes.vercel.app/">
-    <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-202020?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
+    <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-402294?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
 
 <table>
@@ -52,7 +52,7 @@ My repositories that I keep several stuff like challenges, syllabuses, etc
 <a href="https://github.com/Brendon3578/material-de-estudos">My study notes of various technologies (PT-BR)</a>
 </td></tr>
 <tr><td>
-<a href="https://github.com/Brendon3578/boracodar-challenges">Challenges done of #boracodar rocketseat's event (PT-BR)</a>
+<a href="https://github.com/Brendon3578/boracodar-challenges">Challenges done of #boracodar Rocketseat's event (PT-BR)</a>
 </td></tr>
 </table>
 
@@ -76,11 +76,11 @@ My repositories that I keep several stuff like challenges, syllabuses, etc
 
 Check my profiles of other learning platforms
 
-<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
-  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" title="Brendon Gomes's Google Cloud Skill Boost Profile">
-</a>
 <a href="https://exercism.org/profiles/Brendon3578">
-    <img src="https://img.shields.io/badge/Exercism_Profile-009CAB?style=flat&logo=exercism&logoColor=white" title="My Exercism Profile" title="Brendon's Exercism Profile" alt="Brendon's Exercism Profile">
+    <img src="https://img.shields.io/badge/Exercism_Profile-4928a8?style=flat&logo=exercism&logoColor=white" title="My Exercism Profile" title="Brendon's Exercism Profile" alt="Brendon's Exercism Profile">
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
+  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-341982?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" title="Brendon Gomes's Google Cloud Skill Boost Profile">
 </a>
 
 <!---
