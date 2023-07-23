@@ -12,40 +12,39 @@ I am a beginner in the developer's world who is always looking to learn the new
     <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-402294?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
 
-- 💻 **Skills**
+<a href="https://exercism.org/profiles/Brendon3578">
+  <img src="https://img.shields.io/badge/Exercism_Profile-4928a8?style=flat&logo=exercism&logoColor=white" alt="Brendon's Exercism Profile">
+</a>
+<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
+  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-341982?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" >
+</a>
 
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&style=flat&logo=react&logoColor=%2361DAFB)
-  ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&style=flat&logo=node.js&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&style=flat&logo=typescript&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&style=flat&logo=microsoft%20sql%20server&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&style=flat&logo=git&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&style=flat&logo=bootstrap&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&style=flat&logo=tailwind-css&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&style=flat&logo=google-cloud&logoColor=white)
+## 💻 Skills
 
-- 💭 **Studying about**
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-  ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&style=flat&logo=elixir&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&style=flat&logo=amazon-aws&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&style=flat&logo=microsoftazure&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&style=flat&logo=angular&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&style=flat&logo=python&logoColor=ffdd54)
+## 💭 Studying about
 
-- 🔮 **Special Repositories** - My repositories that I keep several stuff like challenges, syllabuses, etc
-  - [Exercism platform's elixir exercises repository](https://github.com/Brendon3578/elixir-learning-exercises)
-  - [My study notes of various technologies (PT-BR)](https://github.com/Brendon3578/material-de-estudos)
-  - [Challenges done of #boracodar Rocketseat's event (PT-BR)](https://github.com/Brendon3578/boracodar-challenges)
+![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-- 🎈 **Other Profiles** - Check my profiles of other learning platforms
-  
-  <span>
-    <a href="https://exercism.org/profiles/Brendon3578">
-      <img src="https://img.shields.io/badge/Exercism_Profile-4928a8?style=flat&logo=exercism&logoColor=white" alt="Brendon's Exercism Profile">
-    </a>
-    <a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
-      <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-341982?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" >
-    </a>
-  </span>
+## 🔮 Special Repositories
+
+My repositories that I keep several stuff like challenges, syllabuses, etc
+
+- [Exercism platform's elixir exercises repository](https://github.com/Brendon3578/elixir-learning-exercises)
+- [My study notes of various technologies (PT-BR)](https://github.com/Brendon3578/material-de-estudos)
+- [Challenges done of #boracodar Rocketseat's event (PT-BR)](https://github.com/Brendon3578/boracodar-challenges)
 
 ***************
 
