@@ -63,7 +63,7 @@ I am a beginner in the developer's world who is always looking to learn the new
 
 ***************
 
-![snake gif](https://github.com/Brendon3578/Brendon3578/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Brendon3578/Brendon3578/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Brendon3578/Brendon3578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
