@@ -58,12 +58,14 @@ I am a beginner in the developer's world who is always looking to learn the new
 <img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=886ce4&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR" />
 </a>
 </div>
+<!-- copied from https://github.com/FravonDev/FravonDev/blob/main/README.md -->
 
-<!-- copied from https://github.com/FravonDev/FravonDev/blob/main/README.md sorry -->
-
-***************
-
-![snake gif](https://github.com/Brendon3578/Brendon3578/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
+</picture>
+<!-- generated from https://github.com/Platane/snk -->
 
 <!---
 Brendon3578/Brendon3578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
