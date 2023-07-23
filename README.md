@@ -63,7 +63,11 @@ I am a beginner in the developer's world who is always looking to learn the new
 
 ***************
 
-![snake animation](https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
+</picture>
 
 <!---
 Brendon3578/Brendon3578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
