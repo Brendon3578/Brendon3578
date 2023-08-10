@@ -1,25 +1,35 @@
-# Hello 👋, I'm Brendon Gomes
+# Olá!! Sou Brendon 🤝
 
-I am a beginner in the developer's world who is always looking to learn the new
+## Bem-vindo ao meu perfil
+
+Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente curso `Desenvolvimento de Software Multiplataforma`, na Faculdade de Tecnologia de Mauá
+
+Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
+
+Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na área de `Back-end`
+
+## Conte comigo para compartilhar conhecimentos e aprendizados
 
 <a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
-    <img src="https://img.shields.io/badge/-Linkedin_Profile-603fbf?style=flat&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
-</a>
-<a href="mailto:brendongomes40@gmail.com">
-    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-5232ad?style=flat&logo=gmail&logoColor=white" title="my email address" alt="my email address">
+    <img src="https://img.shields.io/badge/-Linkedin-603fbf?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
 </a>
 <a href="https://brendongomes.vercel.app/">
-    <img src="https://img.shields.io/badge/-Personal_Website_(Portfolio)-402294?style=flat&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
+    <img src="https://img.shields.io/badge/Portfolio-603fb0?style=for-the-badge&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
 </a>
+<a href="mailto:brendongomes40@gmail.com">
+    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-5232ad?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
+</a>
+
+### Outros perfis de estudo 🏆
 
 <a href="https://exercism.org/profiles/Brendon3578">
   <img src="https://img.shields.io/badge/Exercism_Profile-4928a8?style=flat&logo=exercism&logoColor=white" alt="Brendon's Exercism Profile">
 </a>
 <a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
-  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-341982?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" >
+  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-4928a8?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Skill Boost Profile" >
 </a>
 
-## 💻 Skills
+## Tecnologias que conheço 💻
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,7 +40,7 @@ I am a beginner in the developer's world who is always looking to learn the new
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-## 💭 Studying about
+## Tecnologias que procuro aprender  💭
 
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -38,13 +48,13 @@ I am a beginner in the developer's world who is always looking to learn the new
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🔮 Special Repositories
+## Repositórios especiais 🔮
 
-My repositories that I keep several stuff like challenges, syllabuses, etc
+Repositórios que eu gosto de manter, anotações de estudos, desafios de front-end do evento **#boracodar** da Rocketseat, e os desafios que faço da plataforma Exercism sobre Elixir.
 
-- [Exercism platform's elixir exercises repository](https://github.com/Brendon3578/elixir-learning-exercises)
-- [My study notes of various technologies (PT-BR)](https://github.com/Brendon3578/material-de-estudos)
-- [Challenges done of #boracodar Rocketseat's event (PT-BR)](https://github.com/Brendon3578/boracodar-challenges)
+- [Anotações de estudo (AWS, GCP, Python, etc.)](https://github.com/Brendon3578/material-de-estudos)
+- [Desafios feitos do evento #boracodar da Rocketseat](https://github.com/Brendon3578/boracodar-challenges)
+- [Exercícios feitos de Elixir da plataforma Exercism](https://github.com/Brendon3578/elixir-learning-exercises)
 
 ***************
 
