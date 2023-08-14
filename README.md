@@ -1,6 +1,6 @@
 <center>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=4000&color=2D9964&center=true&vCenter=true&width=435&lines=Ol%C3%A1!!+Sou+Brendon+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=32&pause=1000&color=2D9964&vCenter=true&repeat=false&width=435&height=35&lines=Ol%C3%A1+sou+Brendon+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </center>
 
