@@ -1,10 +1,8 @@
-<h1>
 <center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=4000&color=2D9964&center=true&vCenter=true&width=435&lines=Ol%C3%A1!!+Sou+Brendon+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </center>
-</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&color=AA755F&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Bem-vindo+ao+meu+perfil.;Pegue+um+caf%C3%A9+para+aproveitar+a+estadia%3A+%E2%98%95)](https://git.io/typing-svg)
 ---
