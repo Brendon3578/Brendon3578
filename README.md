@@ -6,9 +6,11 @@ Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecn
 
 Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
 
-Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na área de `Back-end`
+Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na área de `Back-end`.
 
 ## Conte comigo para compartilhar conhecimentos e aprendizados
+
+Se conecte comigo no Linkedin
 
 <a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
     <img src="https://img.shields.io/badge/-Linkedin-2D9964?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
@@ -20,7 +22,11 @@ Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na �
     <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-2D9964?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
 </a>
 
-### Outros perfis de estudo 🏆
+### 🏆 Outros perfis de estudo
+
+Perfis que eu possuo em outras plataformas de estudo que eu busco para aperfeiçoar meu conhecimento.
+
+<small> Possuo a certificação de [**AWS Cloud Practitioner** 🏆](https://www.credly.com/badges/19a56a8a-e2df-4a43-badf-2c439b1719e1) </small>
 
 <a href="https://exercism.org/profiles/Brendon3578">
   <img src="https://img.shields.io/badge/Exercism_Profile-152020?style=flat&logo=exercism" alt="Brendon's Exercism Profile">
@@ -29,7 +35,7 @@ Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na �
   <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-152020?style=flat&logo=google-cloud" alt="Google Cloud Skill Boost Profile" >
 </a>
 
-## Tecnologias que conheço 💻
+## 💻 Tecnologias que conheço
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -41,18 +47,19 @@ Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na �
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-131313.svg?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-131313.svg?style=for-the-badge&logo=tailwind-css)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-131313.svg?style=for-the-badge&logo=google-cloud)
+![Google Cloud](https://img.shields.io/badge/Nest_JS-131313.svg?style=for-the-badge&logo=nestjs)
 
-## Tecnologias que procuro aprender  💭
+## 💭 Tecnologias que procuro aprender
 
 ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure)
 ![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## Repositórios especiais 🔮
+## 🔮 Repositórios especiais
 
 Repositórios que eu gosto de manter, anotações de estudos, desafios de front-end do evento **#boracodar** da Rocketseat, e os desafios que faço da plataforma Exercism sobre Elixir.
 
-- [Anotações de estudo (AWS, GCP, Python, etc.)](https://github.com/Brendon3578/material-de-estudos)
+- [Anotações de estudo (AWS Cloud Practitioner, Google Cloud, Python, etc.)](https://github.com/Brendon3578/material-de-estudos)
 - [Desafios feitos do evento #boracodar da Rocketseat](https://github.com/Brendon3578/boracodar-challenges)
 - [Exercícios feitos de Elixir da plataforma Exercism](https://github.com/Brendon3578/elixir-learning-exercises)
 
