@@ -85,6 +85,16 @@ Repositórios que eu gosto de manter, anotações de estudos, desafios de front-
   <img alt="github-snake" src="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
 </picture>
 
+<center>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+
+<img src="./assets/u2615_u2615.png" width="40px">
+
+<a>
+
+</center>
+
 <!-- 
 Link de apoio sobre a construção desse README:
 https://dev.to/supritha/how-to-have-an-awesome-github-profile-2jge
