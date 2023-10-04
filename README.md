@@ -85,15 +85,15 @@ Repositórios que eu gosto de manter, anotações de estudos, desafios de front-
   <img alt="github-snake" src="https://github.com/Brendon3578/Brendon3578/blob/output/github-snake.svg" />
 </picture>
 
-<center>
+<div align="center" >
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
 
-<img src="./assets/u2615_u2615.png" width="40px">
+<img src="./assets/u2615_u2615.png" width="40px" title="you found a secret" >
 
 <a>
 
-</center>
+</div>
 
 <!-- 
 Link de apoio sobre a construção desse README:
