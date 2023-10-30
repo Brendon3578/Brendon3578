@@ -1,67 +1,59 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2D9964&vCenter=true&repeat=false&width=600&height=60&lines=Ol%C3%A1+me+chamo+Brendon+%F0%9F%91%8B)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&color=AA755F&vCenter=true&multiline=true&repeat=false&width=700&height=80&lines=Bem-vindo+ao+meu+perfil.;Pegue+um+caf%C3%A9+para+aproveitar+a+estadia%3A+%E2%98%95)](https://git.io/typing-svg)
----
+# Olá me chamo Brendon 👋
 
 Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente curso `Desenvolvimento de Software Multiplataforma`, na Faculdade de Tecnologia de Mauá
 
 Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
 
-Atualmente estudo sobre Java e Angular, tendo foco em futuramente trabalhar na área de `Back-end`.
+<small>
 
-## Conte comigo para compartilhar conhecimentos e aprendizados
+- 🎯 Focado em trabalhar sendo **Desenvolvedor Java e Angular** na área de Back-end
+- 🔮 Acesse meu [Portfolio](https://brendongomes.vercel.app/) criado em NextJS e Tailwind
+- 🎈 Faça networking comigo no [LinkedIn](https://www.linkedin.com/in/brendon-gomes-da-silva8/)
+- 🕹 Meu perfil gamer da [Steam](https://steamcommunity.com/profiles/76561198078421917)
+- 👨‍💻 Sou uma pessoa autodidata que sempre busca aprender novas tecnologias
 
-Se conecte comigo no Linkedin
+</small>
 
-<a href="https://www.linkedin.com/in/brendon-gomes-da-silva8/">
-    <img src="https://img.shields.io/badge/-Linkedin-2D9964?style=for-the-badge&logo=Linkedin&logoColor=white" title="LinkedIn Profile" alt="LinkedIn">
-</a>
-<a href="https://brendongomes.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2D9964?style=for-the-badge&logo=next.js&logoColor=white" title="My Personal Website (Portfolio)" alt="Personal Website (Portfolio)">
-</a>
-<a href="mailto:brendongomes40@gmail.com">
-    <img src="https://img.shields.io/badge/-brendongomes40@gmail.com-2D9964?style=for-the-badge&logo=gmail&logoColor=white" title="my email address" alt="my email address">
-</a>
-
-### 🏆 Outros perfis de estudo
-
-Perfis que eu possuo em outras plataformas de estudo que eu busco para aperfeiçoar meu conhecimento.
-
-<small> Possuo a certificação de [**AWS Cloud Practitioner** 🏆](https://www.credly.com/badges/19a56a8a-e2df-4a43-badf-2c439b1719e1) </small>
-
-<a href="https://exercism.org/profiles/Brendon3578">
-  <img src="https://img.shields.io/badge/Exercism_Profile-152020?style=flat&logo=exercism" alt="Brendon's Exercism Profile">
-</a>
-<a href="https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c">
-  <img src="https://img.shields.io/badge/Google_Cloud_Skill_Boost_Badges-152020?style=flat&logo=google-cloud" alt="Google Cloud Skill Boost Profile" >
-</a>
-
-## 💻 Tecnologias que conheço
+## 🌱 Stacks que conheço
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-131313.svg?style=for-the-badge&logo=react)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-131313.svg?style=for-the-badge&logo=microsoft%20sql%20server)
 ![Git](https://img.shields.io/badge/Git-131313.svg?style=for-the-badge&logo=git)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-131313.svg?style=for-the-badge&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/Tailwindcss-131313.svg?style=for-the-badge&logo=tailwind-css)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-131313.svg?style=for-the-badge&logo=google-cloud)
-![Google Cloud](https://img.shields.io/badge/Nest_JS-131313.svg?style=for-the-badge&logo=nestjs)
 
-## 💭 Tecnologias que procuro aprender
+### Outras tecnologias que estudo
 
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure)
+![Elixir](https://img.shields.io/badge/elixir-191919.svg?style=for-the-badge&logo=elixir&logoColor=9560A4)
+![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6)
 ![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🔮 Repositórios especiais
+<small>
 
-Repositórios que eu gosto de manter, anotações de estudos, desafios de front-end do evento **#boracodar** da Rocketseat, e os desafios que faço da plataforma Exercism sobre Elixir.
+- 🏆 Possuo a certificação [**AWS Cloud Practitioner**](https://www.credly.com/badges/19a56a8a-e2df-4a43-badf-2c439b1719e1)
+- Veja o [meu perfil do Exercism](https://exercism.org/profiles/Brendon3578) que realizo exercícios sobre a linguagem funcional Elixir
+- Veja o [meu perfil do Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/b8bc780d-98fd-49bd-854a-39ea9b898b1c) que contêm badges sobre Google Cloud
+
+</small>
+
+### 🔮 Repositórios especiais
+
+<small>
+
+Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafios do **#boracodar** da Rocketseat, e os desafios que faço da plataforma Exercism sobre Elixir.
 
 - [Anotações de estudo (AWS Cloud Practitioner, Google Cloud, Python, etc.)](https://github.com/Brendon3578/material-de-estudos)
-- [Desafios feitos do evento #boracodar da Rocketseat](https://github.com/Brendon3578/boracodar-challenges)
+- [Desafios front-end feitos do evento #boracodar da Rocketseat](https://github.com/Brendon3578/boracodar-challenges)
 - [Exercícios feitos de Elixir da plataforma Exercism](https://github.com/Brendon3578/elixir-learning-exercises)
+
+</small>
 
 ***************
 
