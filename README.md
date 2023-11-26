@@ -36,6 +36,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 ![Elixir](https://img.shields.io/badge/elixir-191919.svg?style=for-the-badge&logo=elixir&logoColor=9560A4)
 ![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6)
 ![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-191919?style=for-the-badge&logo=kotlin&logoColor=237F52FF)
 
 <small>
 
