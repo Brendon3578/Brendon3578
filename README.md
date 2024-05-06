@@ -14,6 +14,10 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 </small>
 
+<br>
+
+---
+
 ## 🌱 Stacks que conheço
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -65,10 +69,10 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <div align="center">
 
 <a href="#">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" alt="Brendon's profile statics on Github" />
 </a>
 <a href="#">
-<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR" />
+<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR" alt="Brendon's top used programming languages on Github" />
 </a>
 </div>
 
@@ -84,11 +88,11 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 <div align="center" >
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" rel="noopener noreferrer" >
 
-<img src="./assets/u2615_u2615.png" width="40px" title="you found a secret" >
+<img src="./assets/u2615_u2615.png" width="40px" title="you found a secret" alt="coffee">
 
-<a>
+</a>
 
 </div>
 
