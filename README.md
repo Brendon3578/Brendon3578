@@ -9,7 +9,6 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 - 🎯 Focado em trabalhar sendo **Desenvolvedor Back-end** atuando com Spring e NodeJS
 - 🔮 Acesse meu [Portfolio](https://brendongomes.vercel.app/) criado em NextJS e Tailwind
 - 🎈 Faça networking comigo no [LinkedIn](https://www.linkedin.com/in/brendon-gomes-da-silva8/)
-- 🕹 Meu perfil gamer da [Steam](https://steamcommunity.com/profiles/76561198078421917)
 - 👨‍💻 Sou uma pessoa autodidata que sempre busca aprender novas tecnologias
 
 </small>
@@ -25,6 +24,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-131313.svg?style=for-the-badge&logo=react)
 ![Express.js](https://img.shields.io/badge/express.js-131313.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-131313?style=for-the-badge&logo=node.js&logoColor=6DA55F)
@@ -38,6 +38,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 ### Outras tecnologias que estudo
 
+![.Net](https://img.shields.io/badge/.NET-191919?style=for-the-badge&logo=.net&logoColor=BF9FC8)
 ![Spring](https://img.shields.io/badge/Spring-191919.svg?style=for-the-badge&logo=spring)
 ![Elixir](https://img.shields.io/badge/elixir-191919.svg?style=for-the-badge&logo=elixir&logoColor=9560A4)
 ![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6)
