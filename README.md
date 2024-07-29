@@ -26,7 +26,6 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![React](https://img.shields.io/badge/React-131313.svg?style=for-the-badge&logo=react)
-![Express.js](https://img.shields.io/badge/express.js-131313.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-131313?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-131313.svg?style=for-the-badge&logo=microsoft%20sql%20server)
 ![MongoDB](https://img.shields.io/badge/MongoDB-131313.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
