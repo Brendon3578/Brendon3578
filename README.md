@@ -74,7 +74,7 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000000&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" alt="Brendon's profile statics on Github" />
 </a>
 <a href="#">
-<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR" alt="Brendon's top used programming languages on Github" />
+<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000000&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR&hide=css,html,scss" alt="Brendon's top used programming languages on Github" />
 </a>
 </div>
 
