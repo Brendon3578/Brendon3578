@@ -71,10 +71,19 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <div align="center">
 
 <a href="#">
-<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000020&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" alt="Brendon's profile statics on Github" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000020&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000090&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <img alt="Brendon's profile statics on Github" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=ffffff&bg_color=00000090&hide_border=true&username=Brendon3578&show_icons=true&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+</picture>
 </a>
+
 <a href="#">
-<img align="center"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000020&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR&hide=css,html,scss" alt="Brendon's top used programming languages on Github" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000020&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR&hide=css,html,scss" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000090&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR&hide=css,html,scss" />
+  <img alt="Brendon's top used programming languages on Github" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=ffffff&title_color=AA755F&bg_color=00000090&hide_border=true&langs_count=7&theme=transparent&locale=pt-BR&hide=css,html,scss" />
+</picture>
 </a>
 </div>
 
