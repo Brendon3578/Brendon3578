@@ -80,9 +80,9 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&hide_border=true&langs_count=8&theme=transparent&locale=pt-BR&hide=css,html,scss" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&locale=pt-BR&hide=css,html,scss" />
-  <img alt="Brendon's top used programming languages on Github" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&locale=pt-BR&hide=css,html,scss" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&hide_border=true&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
+  <img alt="Brendon's top used programming languages on Github" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss&locale=pt-BR" />
 </picture>
 </a>
 </div>
