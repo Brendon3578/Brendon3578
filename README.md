@@ -37,12 +37,14 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 ### Outras tecnologias que estudo
 
+![C#](https://img.shields.io/badge/c%23-191919.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9956f6)
 ![.Net](https://img.shields.io/badge/.NET-191919?style=for-the-badge&logo=.net&logoColor=BF9FC8)
 ![Spring](https://img.shields.io/badge/Spring-191919.svg?style=for-the-badge&logo=spring)
 ![Elixir](https://img.shields.io/badge/elixir-191919.svg?style=for-the-badge&logo=elixir&logoColor=9560A4)
 ![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6)
 ![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Kotlin](https://img.shields.io/badge/Kotlin-191919?style=for-the-badge&logo=kotlin&logoColor=237F52FF)
+![YAML](https://img.shields.io/badge/yaml-151515.svg?style=for-the-badge&logo=yaml&logoColor=%23ffffff)
 
 <small>
 
