@@ -56,7 +56,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 ---
 
-### Repositórios especiais
+## Repositórios especiais
 
 <small>
 
@@ -65,6 +65,18 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 - [Anotações de estudo (AWS Cloud Practitioner, Google Cloud, Python, etc.)](https://github.com/Brendon3578/material-de-estudos)
 - [Desafios front-end feitos do evento #boracodar da Rocketseat](https://github.com/Brendon3578/boracodar-challenges)
 - [Exercícios feitos de Elixir da plataforma Exercism](https://github.com/Brendon3578/elixir-learning-exercises)
+
+</small>
+
+### 🎮 Jogos que fiz para projetos acadêmicos
+
+<small>
+
+Jogos que fiz em HTML, CSS e Javascript para projetos da Faculdade
+
+- [Rinha de Galo](https://github.com/Brendon3578/rooster-fight)
+- [Campo Minado](https://github.com/Brendon3578/minesweeper-game-bet)
+- [Aviator Game](https://github.com/Brendon3578/aviator-game-test)
 
 </small>
 
