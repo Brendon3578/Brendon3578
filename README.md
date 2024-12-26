@@ -17,11 +17,12 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 ---
 
-## 🌱 Stacks que conheço
+## 🌱 Tecnologias principais que conheço
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-9956f6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=191919)
+![.Net](https://img.shields.io/badge/.NET-7155d4?style=for-the-badge&logo=.net&logoColor=191919)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -37,9 +38,8 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 ### Outras tecnologias que estudo
 
-![C#](https://img.shields.io/badge/c%23-191919.svg?style=for-the-badge&logo=c%2B%2B&logoColor=9956f6)
-![.Net](https://img.shields.io/badge/.NET-191919?style=for-the-badge&logo=.net&logoColor=BF9FC8)
 ![Spring](https://img.shields.io/badge/Spring-191919.svg?style=for-the-badge&logo=spring)
+![Java](https://img.shields.io/badge/java-191919.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 ![Elixir](https://img.shields.io/badge/elixir-191919.svg?style=for-the-badge&logo=elixir&logoColor=9560A4)
 ![Azure](https://img.shields.io/badge/Azure-191919.svg?style=for-the-badge&logo=microsoftazure&logoColor=%230072C6)
 ![Python](https://img.shields.io/badge/Python-191919?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -72,7 +72,7 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 <small>
 
-Jogos que fiz em HTML, CSS e Javascript para projetos da Faculdade
+Alguns jogos que fiz em HTML, CSS e Javascript para projetos da faculdade.
 
 - [Rinha de Galo](https://github.com/Brendon3578/rooster-fight)
 - [Campo Minado](https://github.com/Brendon3578/minesweeper-game-bet)
