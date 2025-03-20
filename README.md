@@ -1,6 +1,6 @@
 # Olá me chamo Brendon 👋
 
-Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente cursando `Desenvolvimento de Software Multiplataforma` na Faculdade de Tecnologia de Mauá
+Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente cursando `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e trabalhando na T-Systems do Brasil como Jovem Aprendiz de Quality.
 
 Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
 
