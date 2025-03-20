@@ -6,7 +6,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 <small>
 
-- 🎯 Focado em trabalhar sendo **Desenvolvedor Back-end** atuando com Spring, NodeJS e C# .NET
+- 🎯 Focado em aperfeiçoar meus conhecimentos sobre **Back-end** (APIs, Micro-services e Arquiteturas de Software)
 - 🎈 Faça networking comigo no [LinkedIn](https://www.linkedin.com/in/brendon-gomes-da-silva8/)
 - 🔮 Acesse meu [Portfolio](https://brendongomes.vercel.app/) (desatualizado) criado em NextJS e Tailwind
 - 👨‍💻 Sou uma pessoa autodidata que sempre busca aprender novas tecnologias
