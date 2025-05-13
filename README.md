@@ -1,6 +1,6 @@
 # Olá me chamo Brendon 👋
 
-Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente cursando `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e trabalhando na T-Systems do Brasil como Jovem Aprendiz de Quality.
+Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente cursando `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e trabalhando na multinacional T-Systems do grupo Deutsche Telekom como Estagiário de Engenharia de Software na área de Quality.
 
 Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
 
@@ -9,7 +9,7 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 - 🎯 Focado em aperfeiçoar meus conhecimentos sobre **Back-end** (APIs, Micro-services e Arquiteturas de Software)
 - 🎈 Faça networking comigo no [LinkedIn](https://www.linkedin.com/in/brendon-gomes-da-silva8/)
 - 🔮 Acesse meu [Portfolio](https://brendongomes.vercel.app/) (desatualizado) criado em NextJS e Tailwind
-- 👨‍💻 Sou uma pessoa autodidata que sempre busca aprender novas tecnologias
+- 👨‍💻 Sou curioso e uma pessoa autodidata que sempre busca aprender novas tecnologias
 
 </small>
 
