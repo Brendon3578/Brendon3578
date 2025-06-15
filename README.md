@@ -66,15 +66,20 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 </small>
 
-### 🎮 Jogos que fiz para projetos acadêmicos
+### ✨ Projetos acadêmicos
 
 <small>
 
-Alguns jogos que fiz em HTML, CSS e Javascript para projetos da faculdade.
+🎮 Alguns jogos que fiz em HTML, CSS e Javascript para projetos da faculdade:
 
 - [Rinha de Galo](https://github.com/Brendon3578/rooster-fight)
 - [Campo Minado](https://github.com/Brendon3578/minesweeper-game-bet)
 - [Aviator Game](https://github.com/Brendon3578/aviator-game-test)
+
+☁ Análise Previsão de Demandas da FATEC com Machine Learning com ARIMA, Prophet e Regressão Linear:
+
+- [Repositório do Projeto](https://github.com/Brendon3578/fatec-maua-applicants-forecast)
+- [Automação em C# .NET Framework com Selenium que extrai e faz o download de demandas de inscritos da FATEC](https://github.com/Brendon3578/FatecDemandaDownloaderNetFramework)
 
 </small>
 
