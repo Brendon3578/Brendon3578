@@ -13,8 +13,6 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 
 </small>
 
-<br>
-
 ---
 
 ## 🌱 Tecnologias principais que conheço
