@@ -1,15 +1,17 @@
 # Olá me chamo Brendon 👋
 
-Me chamo Brendon Gomes sou um desenvolvedor com mais de 3 anos de estudo em tecnologias de desenvolvimento web, atualmente cursando `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e trabalhando na multinacional T-Systems do grupo Deutsche Telekom como Estagiário de Engenharia de Software na área de Quality.
+Sou Brendon Gomes, desenvolvedor com mais de 3 anos de experiência em tecnologias de desenvolvimento web. Atualmente curso `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e atuo como Estagiário de Engenharia de Software na T-Systems do Brasil, multinacional do grupo Deutsche Telekom, na área de Quality.
 
-Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos computadores e sobre como eles funcionam, mas só foi em 2020 quando entrei para uma escola técnica fazendo o curso de Desenvolvimento de Sistemas, que comecei meus estudos nessa vasta área da ✨ **Programação** ✨
+Desde que ganhei meu primeiro computador, sempre fui fascinado pelo mundo da computação e dos games, mas foi só em 2020, ao ingressar em uma escola técnica no curso de Desenvolvimento de Sistemas, que comecei minha jornada na vasta área da ✨ **Programação** ✨.
+
+Tenho me especializado cada vez mais na área de **Back-end**, com foco em aplicações robustas com **C# e .NET**, e estudado também **Inteligência Artificial**, especialmente aplicada ao backend e automações.
 
 <small>
 
-- 🎯 Focado em aperfeiçoar meus conhecimentos sobre **Back-end** (APIs, Micro-services e Arquiteturas de Software)
+- 🎯 Focado em aprimorar meus conhecimentos em **Back-end** (APIs, Microsserviços, Arquitetura de Software e IA aplicada)
 - 🎈 Faça networking comigo no [LinkedIn](https://www.linkedin.com/in/brendon-gomes-da-silva8/)
 - 🔮 Acesse meu [Portfolio](https://brendongomes.vercel.app/) (desatualizado) criado em NextJS e Tailwind
-- 👨‍💻 Sou curioso e uma pessoa autodidata que sempre busca aprender novas tecnologias
+- 👨‍💻 Curioso e autodidata, estou sempre explorando novas tecnologias e práticas modernas de desenvolvimento
 
 </small>
 
@@ -18,19 +20,20 @@ Desde quando ganhei meu primeiro computador sempre me interessei pelo mundo dos 
 ## 🌱 Tecnologias principais que conheço
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-9956f6.svg?style=for-the-badge&logo=c%2B%2B&logoColor=191919)
 ![.Net](https://img.shields.io/badge/.NET-7155d4?style=for-the-badge&logo=.net&logoColor=191919)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-131313.svg?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-303030.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2338B2AC)
+
+![Angular](https://img.shields.io/badge/angular-131313.svg?style=for-the-badge&logo=angular&logoColor=%23DD0031)
 ![NodeJS](https://img.shields.io/badge/node.js-131313?style=for-the-badge&logo=node.js&logoColor=6DA55F)
 ![MicrosoftSQLServer](https://img.shields.io/badge/SQL%20Server-131313.svg?style=for-the-badge&logo=microsoft%20sql%20server)
 ![MongoDB](https://img.shields.io/badge/MongoDB-131313.svg?style=for-the-badge&logo=mongodb&logoColor=%234ea94b)
 ![Git](https://img.shields.io/badge/Git-131313.svg?style=for-the-badge&logo=git)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-131313.svg?style=for-the-badge&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/Tailwindcss-131313.svg?style=for-the-badge&logo=tailwind-css)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-131313.svg?style=for-the-badge&logo=google-cloud)
 ![Docker](https://img.shields.io/badge/Docker-131313.svg?style=for-the-badge&logo=docker)
 
@@ -78,8 +81,8 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 ☁ Análise Previsão de Demandas da FATEC com Machine Learning com ARIMA, Prophet e Regressão Linear:
 
-- [Repositório do Projeto](https://github.com/Brendon3578/fatec-maua-applicants-forecast)
 - [Automação em C# .NET Framework com Selenium que extrai e faz o download de demandas de inscritos da FATEC](https://github.com/Brendon3578/FatecDemandaDownloaderNetFramework)
+- [Repositório do Projeto](https://github.com/Brendon3578/fatec-maua-applicants-forecast)
 
 </small>
 
@@ -88,9 +91,9 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <div align="center">
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss,Jupyter%20Notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
-  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,Jupyter%20Notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
-  <img alt="Brendon's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,Jupyter%20Notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <img alt="Brendon's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
 </picture>
 </a>
 
@@ -103,7 +106,7 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 </a>
 </div>
 
-<!-- copied from https://github.com/FravonDev/FravonDev/blob/main/README.md sorry -->
+<!-- inspired by https://github.com/FravonDev/FravonDev/blob/main/README.md -->
 
 ---
 
