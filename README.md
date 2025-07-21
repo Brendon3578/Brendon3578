@@ -91,7 +91,7 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <div align="center">
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2D9964&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2d995c&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
   <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
   <img alt="Brendon's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e48&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
 </picture>
@@ -99,7 +99,7 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api?icon_color=2D9964&title_color=2D9964&theme=transparent&text_color=f0f0f0&bg_color=00000010&border_color=30363d&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api?icon_color=2d995c&title_color=2d995c&theme=transparent&text_color=f0f0f0&bg_color=00000010&border_color=30363d&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
   <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
   <img alt="Brendon's profile statics on Github" height=200 src="https://github-readme-stats.vercel.app/api?icon_color=216e48&title_color=216e48&theme=transparent&text_color=161716&username=Brendon3578&show_icons=true&rank_icon=github&theme=swift&include_all_commits=true&count_private=true&locale=pt-BR" />
 </picture>
