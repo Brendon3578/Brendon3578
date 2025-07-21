@@ -91,9 +91,9 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 <div align="center">
 <a href="#">
 <picture>
-  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2d995c&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
-  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
-  <img alt="Brendon's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css,html,scss,jupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=f0f0f0&title_color=2d995c&bg_color=00000010&border_color=30363d&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <source media="(prefers-color-scheme: light)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
+  <img alt="Brendon's top used programming languages on Github" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brendon3578&layout=compact&text_color=050505&title_color=216e3f&langs_count=8&theme=transparent&hide=css%2Chtml%2Cscss%2Cjupyter%20notebook&exclude_repo=fatec-maua-applicants-forecast&locale=pt-BR" />
 </picture>
 </a>
 
