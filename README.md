@@ -1,6 +1,6 @@
 # Olá me chamo Brendon 👋
 
-Sou Brendon Gomes, desenvolvedor com mais de 3 anos de experiência em tecnologias de desenvolvimento web. Atualmente curso `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e atuo como Estagiário de Engenharia de Software na T-Systems do Brasil, multinacional do grupo Deutsche Telekom, na área de Quality.
+Sou Brendon Gomes, desenvolvedor com mais de 3 anos de experiência em tecnologias de desenvolvimento web. Atualmente curso `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e atuo como Estagiário de Engenharia de Software na T-Systems do Brasil, multinacional do grupo Deutsche Telekom, na área de Autoamtion.
 
 Desde que ganhei meu primeiro computador, sempre fui fascinado pelo mundo da computação e dos games, mas foi só em 2020, ao ingressar em uma escola técnica no curso de Desenvolvimento de Sistemas, que comecei minha jornada na vasta área da ✨ **Programação** ✨.
 
@@ -73,16 +73,21 @@ Repositórios que eu gosto de manter atualizado. Anotações de estudos, desafio
 
 <small>
 
-🎮 Alguns jogos que fiz em HTML, CSS e Javascript para projetos da faculdade:
+<h4>🚀 Sistema de de Gestão de Trabalho Voluntário - Trabalho de conclusão de curso da Fatec de Mauá: </h4>
+
+- [Frontend da Aplicação - Website feito com React + Vite + Shadcn](https://github.com/Brendon3578/volts-frontend)
+- [Backend da Aplicação - API RESTful feito com C# ASP .NET Core](https://github.com/Brendon3578/volts-frontend)
+
+<h4>☁ Análise Previsão de Demandas da FATEC com Machine Learning com ARIMA, Prophet e Regressão Linear: </h4>
+
+- [Automação em C# .NET Framework com Selenium que extrai e faz o download de demandas de inscritos da FATEC](https://github.com/Brendon3578/FatecDemandaDownloaderNetFramework)
+- [Repositório do Projeto](https://github.com/Brendon3578/fatec-maua-applicants-forecast)
+
+<h4> 🎮 Alguns jogos que fiz, totalmente em HTML, CSS e com a lógica totalmente feita em Javascript, para projetos da faculdade: </h4>
 
 - [Rinha de Galo](https://github.com/Brendon3578/rooster-fight)
 - [Campo Minado](https://github.com/Brendon3578/minesweeper-game-bet)
 - [Aviator Game](https://github.com/Brendon3578/aviator-game-test)
-
-☁ Análise Previsão de Demandas da FATEC com Machine Learning com ARIMA, Prophet e Regressão Linear:
-
-- [Automação em C# .NET Framework com Selenium que extrai e faz o download de demandas de inscritos da FATEC](https://github.com/Brendon3578/FatecDemandaDownloaderNetFramework)
-- [Repositório do Projeto](https://github.com/Brendon3578/fatec-maua-applicants-forecast)
 
 </small>
 
