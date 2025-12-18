@@ -1,6 +1,6 @@
 # Olá me chamo Brendon 👋
 
-Sou Brendon Gomes, desenvolvedor com mais de 3 anos de experiência em tecnologias de desenvolvimento web. Atualmente curso `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e atuo como Estagiário de Engenharia de Software na T-Systems do Brasil, multinacional do grupo Deutsche Telekom, na área de Autoamtion.
+Sou Brendon Gomes, desenvolvedor com mais de 3 anos de experiência em tecnologias de desenvolvimento web. Atualmente curso `Desenvolvimento de Software Multiplataforma` na FATEC de Mauá e atuo como Estagiário de Engenharia de Software na T-Systems do Brasil, multinacional do grupo Deutsche Telekom, na área de Automation.
 
 Desde que ganhei meu primeiro computador, sempre fui fascinado pelo mundo da computação e dos games, mas foi só em 2020, ao ingressar em uma escola técnica no curso de Desenvolvimento de Sistemas, que comecei minha jornada na vasta área da ✨ **Programação** ✨.
 
